@@ -10,7 +10,7 @@ public class TesteEmpregado {
         emp2.setTipo(2);
         emp3.setTipo(3);
 
-        emp1.setSalario(2000);
+        emp1.setSalario(5000);
         emp2.setSalario(1700);
         emp2.setComissao(0.2);
         emp3.setSalario(1500);
